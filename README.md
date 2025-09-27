@@ -28,7 +28,7 @@ Clone repositori ini ke server atau lokal kamu:
 ```bash
 git clone https://github.com/Muzakie-ID/Structure-Checker
 ```
-```bash
+```
 cd Structure-Checker
 ```
 ```
