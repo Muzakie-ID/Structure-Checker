@@ -26,5 +26,5 @@ Tidak membutuhkan dependency eksternal tambahan.
 Clone repositori ini ke server atau lokal kamu:
 
 ```bash
-git clone [https://github.com/yourusername/project-structure-checker.git](https://github.com/Muzakie-ID/Structure-Checker)
-cd project-structure-checker
+git clone https://github.com/Muzakie-ID/Structure-Checker
+cd Structure-Checker
