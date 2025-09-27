@@ -27,7 +27,11 @@ Clone repositori ini ke server atau lokal kamu:
 
 ```bash
 git clone https://github.com/Muzakie-ID/Structure-Checker
+```
+```bash
 cd Structure-Checker
+```
+```
 python3 check_structure.py [path]
 ```
 ## Contoh
